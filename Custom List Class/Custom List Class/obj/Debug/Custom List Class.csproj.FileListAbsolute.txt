@@ -4,3 +4,6 @@ C:\Users\erikj\Documents\Visual Studio 2015\Projects\Custom List Class\Custom Li
 C:\Users\erikj\Documents\Visual Studio 2015\Projects\Custom List Class\Custom List Class\obj\Debug\Custom List Class.csprojResolveAssemblyReference.cache
 C:\Users\erikj\Documents\Visual Studio 2015\Projects\Custom List Class\Custom List Class\obj\Debug\Custom List Class.exe
 C:\Users\erikj\Documents\Visual Studio 2015\Projects\Custom List Class\Custom List Class\obj\Debug\Custom List Class.pdb
+C:\Users\erikj\Documents\GitHub\CustomList\Custom List Class\Custom List Class\bin\Debug\Custom List Class.exe.config
+C:\Users\erikj\Documents\GitHub\CustomList\Custom List Class\Custom List Class\obj\Debug\Custom List Class.exe
+C:\Users\erikj\Documents\GitHub\CustomList\Custom List Class\Custom List Class\obj\Debug\Custom List Class.pdb

@@ -28,15 +28,6 @@ namespace Custom_List_Class
             longArray[originArray.Length] = newItem;
             originArray = longArray;
         }
-        //public void RemoveItem()
-        //{
-        //    T[] shortArray = new T[originArray.Length - 1];
-        //    for (int i = 0; i < originArray.Length - 1; i++)
-        //    {
-        //        shortArray[i] = originArray[i];
-        //    }
-        //    originArray = shortArray;
-        //}
         public void RemoveItem(T item)
         {
             T[] shortArray = new T[originArray.Length - 1];
@@ -75,14 +66,6 @@ namespace Custom_List_Class
             }
             return combineList;
         }
-        //public static ArrayStorage<T> operator -(ArrayStorage<T> listOne, ArrayStorage<T> listTwo)
-        //{
-        //    foreach (T item in listOne)
-        //    {
-        //        listTwo = listOne;
-        //    }
-        //    return listOne;
-        //}
         public static ArrayStorage<T> operator -(ArrayStorage<T> listOne, ArrayStorage<T> listTwo)
         {
             foreach (T item in listTwo)
